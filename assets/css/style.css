@@ -9,3 +9,7 @@ div.wolf{
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25);
     margin-bottom: 35px;
 }
+
+.texto {
+    text-align: center;
+}
