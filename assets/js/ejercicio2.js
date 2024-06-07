@@ -1,0 +1,1 @@
+const verificar = document.querySelector("#verificar");
