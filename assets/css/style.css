@@ -13,3 +13,29 @@ div.wolf{
 .texto {
     text-align: center;
 }
+
+.sticker{
+
+    margin-top: 50px;
+    width: 400px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.dato{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    padding: 20px;
+    
+}
+
+.verificar{
+    margin-top: 70px;
+}
